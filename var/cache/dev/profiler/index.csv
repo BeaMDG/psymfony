@@ -1,0 +1,13 @@
+8923da,127.0.0.1,GET,http://127.0.0.1:8000/,1686308409,,404
+135724,127.0.0.1,GET,http://127.0.0.1:8000/favicon.ico,1686308410,802b97,404
+802b97,127.0.0.1,GET,http://127.0.0.1:8000/favicon.ico,1686308410,,404
+12e8ce,::1,GET,http://localhost/p_proyecto/public/index.php/,1686555294,,404
+6ab504,::1,GET,http://localhost/p_proyecto/public/index.php/registro,1686556741,,200
+0bf917,::1,GET,http://localhost/p_proyecto/public/index.php/registro,1686557045,,200
+63d090,::1,GET,http://localhost/p_proyecto/public/index.php/registro,1686557594,,200
+a300c7,::1,GET,http://localhost/p_proyecto/public/index.php/registro,1686562578,2aed7f,500
+2aed7f,::1,GET,http://localhost/p_proyecto/public/index.php/registro,1686562578,,500
+a16762,::1,GET,http://localhost/p_proyecto/public/index.php/registro,1686562866,,200
+0ea696,::1,GET,http://localhost/p_proyecto/public/index.php/registro,1686564580,,200
+b0db30,::1,POST,http://localhost/p_proyecto/public/index.php/registro,1686564641,,302
+012e93,::1,GET,http://localhost/p_proyecto/public/index.php/registro,1686564642,,200
