@@ -1,0 +1,2 @@
+parameters:
+    photos_directory: '%kernel.project_dir%/public/uploads/photos'

@@ -12,6 +12,9 @@ use Symfony\Component\Security\Core\User\UserInterface;
 #[ORM\Entity(repositoryClass: UserRepository::class)]
 class User implements UserInterface, PasswordAuthenticatedUserInterface
 {
+    const REGISTRO_EXITOSO = 'Registro exitoso. ¡Bienvenido!';
+
+
     #[ORM\Id]
     #[ORM\GeneratedValue]
     #[ORM\Column]
